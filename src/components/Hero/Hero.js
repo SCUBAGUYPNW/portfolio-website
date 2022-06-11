@@ -13,7 +13,7 @@ My projects portfolio
   </SectionTitle>
   <SectionText>Proven Problem solver ready to start a career in Web and Software Development.
       </SectionText>
-      <Button onClick={() => window.open('mailto:mitch.hall@artificerdevsolutions.com')}>Contact Me</Button>
+      <Button onClick={() => window.open('mailto:mitch.hall@artificerdevsolutions.com')}>Email Me</Button>
 </LeftSection>
 </Section>
 );
